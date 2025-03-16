@@ -1,0 +1,42 @@
+h1 {
+    color:blue;
+}
+.row{
+  display:flex;
+}
+.square{
+  border: 1px solid rgb(34, 103, 252);
+  width: 30px;
+  height: 30px;
+}
+
+#reset{
+  width: 200px;
+  height: 30px;
+  border-radius: 12px;
+  box-shadow: 3px 3px grey;
+}
+.btncolor{
+  width: 100px;
+  height: 30px;
+  border-radius: 12px;
+  box-shadow: 3px 3px grey;
+}
+
+.btncolor#black{
+  background-color: black;
+  color:aliceblue;
+}
+
+.btncolor#red{
+  background-color: red;
+}
+
+.btncolor#white{
+  background-color: white;
+}
+
+.btncolor#purple{
+  background-color: purple;
+  color: white;
+}
